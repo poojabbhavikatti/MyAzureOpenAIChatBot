@@ -1,0 +1,114 @@
+C:\Users\Pooja\Desktop\dotnet\API\MyChatBot\MyChatBot\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Pooja\Desktop\dotnet\API\MyChatBot\MyChatBot\bin\Debug\net8.0\appsettings.json
+C:\Users\Pooja\Desktop\dotnet\API\MyChatBot\MyChatBot\bin\Debug\net8.0\MyChatBot.exe
+C:\Users\Pooja\Desktop\dotnet\API\MyChatBot\MyChatBot\bin\Debug\net8.0\MyChatBot.deps.json
+C:\Users\Pooja\Desktop\dotnet\API\MyChatBot\MyChatBot\bin\Debug\net8.0\MyChatBot.runtimeconfig.json
+C:\Users\Pooja\Desktop\dotnet\API\MyChatBot\MyChatBot\bin\Debug\net8.0\MyChatBot.dll
+C:\Users\Pooja\Desktop\dotnet\API\MyChatBot\MyChatBot\bin\Debug\net8.0\MyChatBot.pdb
+C:\Users\Pooja\Desktop\dotnet\API\MyChatBot\MyChatBot\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Pooja\Desktop\dotnet\API\MyChatBot\MyChatBot\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Pooja\Desktop\dotnet\API\MyChatBot\MyChatBot\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Pooja\Desktop\dotnet\API\MyChatBot\MyChatBot\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Pooja\Desktop\dotnet\API\MyChatBot\MyChatBot\obj\Debug\net8.0\MyChatBot.csproj.AssemblyReference.cache
+C:\Users\Pooja\Desktop\dotnet\API\MyChatBot\MyChatBot\obj\Debug\net8.0\MyChatBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pooja\Desktop\dotnet\API\MyChatBot\MyChatBot\obj\Debug\net8.0\MyChatBot.AssemblyInfoInputs.cache
+C:\Users\Pooja\Desktop\dotnet\API\MyChatBot\MyChatBot\obj\Debug\net8.0\MyChatBot.AssemblyInfo.cs
+C:\Users\Pooja\Desktop\dotnet\API\MyChatBot\MyChatBot\obj\Debug\net8.0\MyChatBot.csproj.CoreCompileInputs.cache
+C:\Users\Pooja\Desktop\dotnet\API\MyChatBot\MyChatBot\obj\Debug\net8.0\MyChatBot.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Pooja\Desktop\dotnet\API\MyChatBot\MyChatBot\obj\Debug\net8.0\MyChatBot.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Pooja\Desktop\dotnet\API\MyChatBot\MyChatBot\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Pooja\Desktop\dotnet\API\MyChatBot\MyChatBot\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Pooja\Desktop\dotnet\API\MyChatBot\MyChatBot\obj\Debug\net8.0\staticwebassets\msbuild.MyChatBot.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Pooja\Desktop\dotnet\API\MyChatBot\MyChatBot\obj\Debug\net8.0\staticwebassets\msbuild.build.MyChatBot.props
+C:\Users\Pooja\Desktop\dotnet\API\MyChatBot\MyChatBot\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MyChatBot.props
+C:\Users\Pooja\Desktop\dotnet\API\MyChatBot\MyChatBot\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MyChatBot.props
+C:\Users\Pooja\Desktop\dotnet\API\MyChatBot\MyChatBot\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Pooja\Desktop\dotnet\API\MyChatBot\MyChatBot\obj\Debug\net8.0\scopedcss\bundle\MyChatBot.styles.css
+C:\Users\Pooja\Desktop\dotnet\API\MyChatBot\MyChatBot\obj\Debug\net8.0\MyChatBot.csproj.Up2Date
+C:\Users\Pooja\Desktop\dotnet\API\MyChatBot\MyChatBot\obj\Debug\net8.0\MyChatBot.dll
+C:\Users\Pooja\Desktop\dotnet\API\MyChatBot\MyChatBot\obj\Debug\net8.0\refint\MyChatBot.dll
+C:\Users\Pooja\Desktop\dotnet\API\MyChatBot\MyChatBot\obj\Debug\net8.0\MyChatBot.pdb
+C:\Users\Pooja\Desktop\dotnet\API\MyChatBot\MyChatBot\obj\Debug\net8.0\MyChatBot.genruntimeconfig.cache
+C:\Users\Pooja\Desktop\dotnet\API\MyChatBot\MyChatBot\obj\Debug\net8.0\ref\MyChatBot.dll
+C:\Users\Pooja\Desktop\dotnet\API\MyChatBot\MyChatBot\bin\Debug\net8.0\AdaptiveCards.dll
+C:\Users\Pooja\Desktop\dotnet\API\MyChatBot\MyChatBot\bin\Debug\net8.0\Microsoft.Bot.Builder.dll
+C:\Users\Pooja\Desktop\dotnet\API\MyChatBot\MyChatBot\bin\Debug\net8.0\Microsoft.Bot.Builder.Dialogs.dll
+C:\Users\Pooja\Desktop\dotnet\API\MyChatBot\MyChatBot\bin\Debug\net8.0\Microsoft.Bot.Builder.Integration.AspNet.Core.dll
+C:\Users\Pooja\Desktop\dotnet\API\MyChatBot\MyChatBot\bin\Debug\net8.0\Microsoft.Bot.Configuration.dll
+C:\Users\Pooja\Desktop\dotnet\API\MyChatBot\MyChatBot\bin\Debug\net8.0\Microsoft.Bot.Connector.dll
+C:\Users\Pooja\Desktop\dotnet\API\MyChatBot\MyChatBot\bin\Debug\net8.0\Microsoft.Bot.Connector.Streaming.dll
+C:\Users\Pooja\Desktop\dotnet\API\MyChatBot\MyChatBot\bin\Debug\net8.0\Microsoft.Bot.Schema.dll
+C:\Users\Pooja\Desktop\dotnet\API\MyChatBot\MyChatBot\bin\Debug\net8.0\Microsoft.Bot.Streaming.dll
+C:\Users\Pooja\Desktop\dotnet\API\MyChatBot\MyChatBot\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Pooja\Desktop\dotnet\API\MyChatBot\MyChatBot\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Pooja\Desktop\dotnet\API\MyChatBot\MyChatBot\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Pooja\Desktop\dotnet\API\MyChatBot\MyChatBot\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Pooja\Desktop\dotnet\API\MyChatBot\MyChatBot\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Pooja\Desktop\dotnet\API\MyChatBot\MyChatBot\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Pooja\Desktop\dotnet\API\MyChatBot\MyChatBot\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Pooja\Desktop\dotnet\API\MyChatBot\MyChatBot\bin\Debug\net8.0\Microsoft.Recognizers.Definitions.dll
+C:\Users\Pooja\Desktop\dotnet\API\MyChatBot\MyChatBot\bin\Debug\net8.0\Microsoft.Recognizers.Text.dll
+C:\Users\Pooja\Desktop\dotnet\API\MyChatBot\MyChatBot\bin\Debug\net8.0\Microsoft.Recognizers.Text.Choice.dll
+C:\Users\Pooja\Desktop\dotnet\API\MyChatBot\MyChatBot\bin\Debug\net8.0\Microsoft.Recognizers.Text.DateTime.dll
+C:\Users\Pooja\Desktop\dotnet\API\MyChatBot\MyChatBot\bin\Debug\net8.0\Microsoft.Recognizers.Text.Number.dll
+C:\Users\Pooja\Desktop\dotnet\API\MyChatBot\MyChatBot\bin\Debug\net8.0\Microsoft.Recognizers.Text.NumberWithUnit.dll
+C:\Users\Pooja\Desktop\dotnet\API\MyChatBot\MyChatBot\bin\Debug\net8.0\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Pooja\Desktop\dotnet\API\MyChatBot\MyChatBot\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Pooja\Desktop\dotnet\API\MyChatBot\MyChatBot\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Pooja\OneDrive - NDS Infotech Ltd\Backup of old\dotnet\API\MyChatBot\MyChatBot\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Pooja\OneDrive - NDS Infotech Ltd\Backup of old\dotnet\API\MyChatBot\MyChatBot\bin\Debug\net8.0\appsettings.json
+C:\Users\Pooja\OneDrive - NDS Infotech Ltd\Backup of old\dotnet\API\MyChatBot\MyChatBot\bin\Debug\net8.0\MyChatBot.exe
+C:\Users\Pooja\OneDrive - NDS Infotech Ltd\Backup of old\dotnet\API\MyChatBot\MyChatBot\bin\Debug\net8.0\MyChatBot.deps.json
+C:\Users\Pooja\OneDrive - NDS Infotech Ltd\Backup of old\dotnet\API\MyChatBot\MyChatBot\bin\Debug\net8.0\MyChatBot.runtimeconfig.json
+C:\Users\Pooja\OneDrive - NDS Infotech Ltd\Backup of old\dotnet\API\MyChatBot\MyChatBot\bin\Debug\net8.0\MyChatBot.dll
+C:\Users\Pooja\OneDrive - NDS Infotech Ltd\Backup of old\dotnet\API\MyChatBot\MyChatBot\bin\Debug\net8.0\MyChatBot.pdb
+C:\Users\Pooja\OneDrive - NDS Infotech Ltd\Backup of old\dotnet\API\MyChatBot\MyChatBot\bin\Debug\net8.0\AdaptiveCards.dll
+C:\Users\Pooja\OneDrive - NDS Infotech Ltd\Backup of old\dotnet\API\MyChatBot\MyChatBot\bin\Debug\net8.0\Microsoft.Bot.Builder.dll
+C:\Users\Pooja\OneDrive - NDS Infotech Ltd\Backup of old\dotnet\API\MyChatBot\MyChatBot\bin\Debug\net8.0\Microsoft.Bot.Builder.Dialogs.dll
+C:\Users\Pooja\OneDrive - NDS Infotech Ltd\Backup of old\dotnet\API\MyChatBot\MyChatBot\bin\Debug\net8.0\Microsoft.Bot.Builder.Integration.AspNet.Core.dll
+C:\Users\Pooja\OneDrive - NDS Infotech Ltd\Backup of old\dotnet\API\MyChatBot\MyChatBot\bin\Debug\net8.0\Microsoft.Bot.Configuration.dll
+C:\Users\Pooja\OneDrive - NDS Infotech Ltd\Backup of old\dotnet\API\MyChatBot\MyChatBot\bin\Debug\net8.0\Microsoft.Bot.Connector.dll
+C:\Users\Pooja\OneDrive - NDS Infotech Ltd\Backup of old\dotnet\API\MyChatBot\MyChatBot\bin\Debug\net8.0\Microsoft.Bot.Connector.Streaming.dll
+C:\Users\Pooja\OneDrive - NDS Infotech Ltd\Backup of old\dotnet\API\MyChatBot\MyChatBot\bin\Debug\net8.0\Microsoft.Bot.Schema.dll
+C:\Users\Pooja\OneDrive - NDS Infotech Ltd\Backup of old\dotnet\API\MyChatBot\MyChatBot\bin\Debug\net8.0\Microsoft.Bot.Streaming.dll
+C:\Users\Pooja\OneDrive - NDS Infotech Ltd\Backup of old\dotnet\API\MyChatBot\MyChatBot\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Pooja\OneDrive - NDS Infotech Ltd\Backup of old\dotnet\API\MyChatBot\MyChatBot\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Pooja\OneDrive - NDS Infotech Ltd\Backup of old\dotnet\API\MyChatBot\MyChatBot\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Pooja\OneDrive - NDS Infotech Ltd\Backup of old\dotnet\API\MyChatBot\MyChatBot\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Pooja\OneDrive - NDS Infotech Ltd\Backup of old\dotnet\API\MyChatBot\MyChatBot\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Pooja\OneDrive - NDS Infotech Ltd\Backup of old\dotnet\API\MyChatBot\MyChatBot\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Pooja\OneDrive - NDS Infotech Ltd\Backup of old\dotnet\API\MyChatBot\MyChatBot\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Pooja\OneDrive - NDS Infotech Ltd\Backup of old\dotnet\API\MyChatBot\MyChatBot\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Pooja\OneDrive - NDS Infotech Ltd\Backup of old\dotnet\API\MyChatBot\MyChatBot\bin\Debug\net8.0\Microsoft.Recognizers.Definitions.dll
+C:\Users\Pooja\OneDrive - NDS Infotech Ltd\Backup of old\dotnet\API\MyChatBot\MyChatBot\bin\Debug\net8.0\Microsoft.Recognizers.Text.dll
+C:\Users\Pooja\OneDrive - NDS Infotech Ltd\Backup of old\dotnet\API\MyChatBot\MyChatBot\bin\Debug\net8.0\Microsoft.Recognizers.Text.Choice.dll
+C:\Users\Pooja\OneDrive - NDS Infotech Ltd\Backup of old\dotnet\API\MyChatBot\MyChatBot\bin\Debug\net8.0\Microsoft.Recognizers.Text.DateTime.dll
+C:\Users\Pooja\OneDrive - NDS Infotech Ltd\Backup of old\dotnet\API\MyChatBot\MyChatBot\bin\Debug\net8.0\Microsoft.Recognizers.Text.Number.dll
+C:\Users\Pooja\OneDrive - NDS Infotech Ltd\Backup of old\dotnet\API\MyChatBot\MyChatBot\bin\Debug\net8.0\Microsoft.Recognizers.Text.NumberWithUnit.dll
+C:\Users\Pooja\OneDrive - NDS Infotech Ltd\Backup of old\dotnet\API\MyChatBot\MyChatBot\bin\Debug\net8.0\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Pooja\OneDrive - NDS Infotech Ltd\Backup of old\dotnet\API\MyChatBot\MyChatBot\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Pooja\OneDrive - NDS Infotech Ltd\Backup of old\dotnet\API\MyChatBot\MyChatBot\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Pooja\OneDrive - NDS Infotech Ltd\Backup of old\dotnet\API\MyChatBot\MyChatBot\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Pooja\OneDrive - NDS Infotech Ltd\Backup of old\dotnet\API\MyChatBot\MyChatBot\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Pooja\OneDrive - NDS Infotech Ltd\Backup of old\dotnet\API\MyChatBot\MyChatBot\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Pooja\OneDrive - NDS Infotech Ltd\Backup of old\dotnet\API\MyChatBot\MyChatBot\obj\Debug\net8.0\MyChatBot.csproj.AssemblyReference.cache
+C:\Users\Pooja\OneDrive - NDS Infotech Ltd\Backup of old\dotnet\API\MyChatBot\MyChatBot\obj\Debug\net8.0\MyChatBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pooja\OneDrive - NDS Infotech Ltd\Backup of old\dotnet\API\MyChatBot\MyChatBot\obj\Debug\net8.0\MyChatBot.AssemblyInfoInputs.cache
+C:\Users\Pooja\OneDrive - NDS Infotech Ltd\Backup of old\dotnet\API\MyChatBot\MyChatBot\obj\Debug\net8.0\MyChatBot.AssemblyInfo.cs
+C:\Users\Pooja\OneDrive - NDS Infotech Ltd\Backup of old\dotnet\API\MyChatBot\MyChatBot\obj\Debug\net8.0\MyChatBot.csproj.CoreCompileInputs.cache
+C:\Users\Pooja\OneDrive - NDS Infotech Ltd\Backup of old\dotnet\API\MyChatBot\MyChatBot\obj\Debug\net8.0\MyChatBot.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Pooja\OneDrive - NDS Infotech Ltd\Backup of old\dotnet\API\MyChatBot\MyChatBot\obj\Debug\net8.0\MyChatBot.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Pooja\OneDrive - NDS Infotech Ltd\Backup of old\dotnet\API\MyChatBot\MyChatBot\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Pooja\OneDrive - NDS Infotech Ltd\Backup of old\dotnet\API\MyChatBot\MyChatBot\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Pooja\OneDrive - NDS Infotech Ltd\Backup of old\dotnet\API\MyChatBot\MyChatBot\obj\Debug\net8.0\staticwebassets\msbuild.MyChatBot.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Pooja\OneDrive - NDS Infotech Ltd\Backup of old\dotnet\API\MyChatBot\MyChatBot\obj\Debug\net8.0\staticwebassets\msbuild.build.MyChatBot.props
+C:\Users\Pooja\OneDrive - NDS Infotech Ltd\Backup of old\dotnet\API\MyChatBot\MyChatBot\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MyChatBot.props
+C:\Users\Pooja\OneDrive - NDS Infotech Ltd\Backup of old\dotnet\API\MyChatBot\MyChatBot\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MyChatBot.props
+C:\Users\Pooja\OneDrive - NDS Infotech Ltd\Backup of old\dotnet\API\MyChatBot\MyChatBot\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Pooja\OneDrive - NDS Infotech Ltd\Backup of old\dotnet\API\MyChatBot\MyChatBot\obj\Debug\net8.0\scopedcss\bundle\MyChatBot.styles.css
+C:\Users\Pooja\OneDrive - NDS Infotech Ltd\Backup of old\dotnet\API\MyChatBot\MyChatBot\obj\Debug\net8.0\MyChatBot.csproj.Up2Date
+C:\Users\Pooja\OneDrive - NDS Infotech Ltd\Backup of old\dotnet\API\MyChatBot\MyChatBot\obj\Debug\net8.0\MyChatBot.dll
+C:\Users\Pooja\OneDrive - NDS Infotech Ltd\Backup of old\dotnet\API\MyChatBot\MyChatBot\obj\Debug\net8.0\refint\MyChatBot.dll
+C:\Users\Pooja\OneDrive - NDS Infotech Ltd\Backup of old\dotnet\API\MyChatBot\MyChatBot\obj\Debug\net8.0\MyChatBot.pdb
+C:\Users\Pooja\OneDrive - NDS Infotech Ltd\Backup of old\dotnet\API\MyChatBot\MyChatBot\obj\Debug\net8.0\MyChatBot.genruntimeconfig.cache
+C:\Users\Pooja\OneDrive - NDS Infotech Ltd\Backup of old\dotnet\API\MyChatBot\MyChatBot\obj\Debug\net8.0\ref\MyChatBot.dll
