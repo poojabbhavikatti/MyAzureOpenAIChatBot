@@ -67,19 +67,8 @@ namespace MyChatBot.Services
 
                     // Extract the 'content' and 'role' fields
                     string contentValue = messageElement.GetProperty("content").GetString();
-                    //string roleValue = "AI Assistant";    //messageElement.GetProperty("role").GetString();
 
                     return contentValue;
-                    // Format the output as required
-                    //string output = $"\"content\": \"{contentValue}\", \"role\": \"{roleValue}\"";
-                    //string output = contentValue;
-                    // Display the formatted output
-                    //Console.WriteLine(output);
-                    //return output ;
-
-                    //return jsonResponse;
-
-
                 }
             }
             else
